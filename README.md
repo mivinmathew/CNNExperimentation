@@ -1,2 +1,2 @@
 # CNNExperimentation
-Cats + Dogs Image Classifier demonstarted through Convolutional Neural Network builds, utilising TensorFlow and Keras 
+Cats + Dogs Image Classifier demonstrated through Convolutional Neural Network builds, utilising TensorFlow and Keras 
